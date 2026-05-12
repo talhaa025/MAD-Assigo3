@@ -15,13 +15,13 @@ A UI clone of the **Spotify** app built with **React Native & Expo**. Recreates 
 ## 📸 Screens
 
 ### Home Screen
-![Home Screen](./images/img3.png)
+![Home Screen](./Images/img3.png)
 
 ### Search Screen
-![Search Screen](./img4.png)
+![Search Screen](./Images/img4.png)
 
 ### Now Playing Screen
-![Now Playing Screen](./imagess/img5.png)
+![Now Playing Screen](./Images/img5.png)
 
 ---
 
