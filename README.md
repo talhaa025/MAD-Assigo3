@@ -15,20 +15,13 @@ A UI clone of the **Spotify** app built with **React Native & Expo**. Recreates 
 ## 📸 Screens
 
 ### Home Screen
-![Home Screen](./images/homescreen.png)
+![Home Screen](./images/img3.png)
 
 ### Search Screen
-![Search Screen](./images/searchscreen.png)
+![Search Screen](./img4.png)
 
 ### Now Playing Screen
-![Now Playing Screen](./imagess/nowplaying-screen.png)
+![Now Playing Screen](./imagess/img5.png)
 
 ---
 
-## ▶️ How to Run
-
-```bash
-npm install
-npx expo start
-```
-Or open on [Snack Expo](https://snack.expo.dev) — no install needed.
